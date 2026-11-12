@@ -1,0 +1,7 @@
+[package]
+name = "vulkano-issue-fence-wait"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+vulkano = { git = "https://github.com/vulkano-rs/vulkano", rev = "f1975854d3908e44774d5804941f2219a9116ac8" }
